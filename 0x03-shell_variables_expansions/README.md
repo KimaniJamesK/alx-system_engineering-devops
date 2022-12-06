@@ -1,1 +1,1 @@
-school
+global
